@@ -1,6 +1,6 @@
 # Prediction-of-Studying-Suicide-Rates-from-1985-to-2016-using-Machine-Learning
 Suicide rates have been studied over the past three decades to understand the trend and predict future occurrences. Various machine learning techniques have been applied to analyze the data and make predictions. The use of machine learning has improved the accuracy of predictions, providing valuable insights for suicide prevention efforts.
-Data Analysis & Visualization
+EDA
 ![eb620b93-8472-48bf-aada-646c78061bcb](https://user-images.githubusercontent.com/75825450/215287824-debe21cf-697b-4e81-8b40-5c6c8027c175.png)
 
 From the plot above, we can see throught 1985 to 2016, the suicide rate of male is always considerably higher than female.
